@@ -1,7 +1,8 @@
 version: 2.1
 
 description: >
-  just a simple hello world orb in prep for gcp sm org
+  just a simple hello world orb in prep for google cloud platform secret manager orb
+  and also to get exposure to the orb ci, packing and authoring process
 
 # This information will be displayed in the orb registry and is not mandatory.
 display:
